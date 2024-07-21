@@ -1,0 +1,65 @@
+   //MÉTODO PARA REDIMENSIONAR/OU TROCAR O TAMANHO DO FORMULÁRIO.
+        private int tolerance = 15;
+        private const int WM_NCHITTES = 132;
+        private const int HTBOTTOMRIGTH = 132;
+        private Rectangle sizeGripRectangle;
+
+        protected override void WndProc(ref Message m)
+        {
+            switch (m.Msg)
+            {
+                case WM_NCHITTES:
+                    base.WndProc(ref m);
+                    var hitPoint = this.PointToClient(new Point(m.LParam.ToInt32() & 0xffff, m.LParam.ToInt32() >> 16));
+                    if (sizeGripRectangle.Contains(hitPoint))
+                        m.Result = new IntPtr(HTBOTTOMRIGTH);
+                    break;
+                default:
+                    base.WndProc(ref m);
+                    break;
+            }
+            base.WndProc(ref m);
+        }
+
+        ////EXCLUIR RETÂNGULO
+        //protected override void OnSizeChanged(EventArgs e)
+        //{
+        //    base.OnSizeChanged(e);
+        //    var region = new Region(new Rectangle(0, 0, this.ClientRectangle.Width, this.ClientRectangle.Height));
+
+        //    //sizeGripRectangle = new Rectangle(this.ClientRectangle.Width - tolerance, this.ClientRectangle.Height - tolerance, tolerance, )
+        //    region.Exclude(sizeGripRectangle);
+        //    this.panel1.Region = region;
+        //    this.Invalidate();
+        //}
+        ////COR E GRIP DE RETÂNGULO INFERIOR 
+        //protected override void OnPaint(PaintEventArgs e)
+        //{
+        //    SolidBrush blueBrush = new SolidBrush(Color.FromArgb(55, 61, 69));
+        //    e.Graphics.FillRectangle(blueBrush, sizeGripRectangle);
+
+        //    base.OnPaint(e);
+        //    ControlPaint.DrawSizeGrip(e.Graphics, Color.Transparent, sizeGripRectangle);
+        //}
+  //Permite a responsividade do menu.
+        //protected override void WndProc(ref Message msj)
+        //{
+        //    //const int coordenadaWPF = 0X84;
+        //    //const int Esquerda = 16;
+        //    //const int Direita = 17;
+        //    //if (msj.Msg == coordenadaWPF)
+        //    //{
+        //    //    int x = (int)(msj.LParam.ToInt64() & 0xFFFF);
+        //    //    int y = (int)(msj.LParam.ToInt64() & 0xFFFF0000) >> 16;
+        //    //    Point CoordenadaArea = PointToClient(new Point(x, y));
+        //    //    Size TamanhoAreaForm = ClientSize;
+        //    //    if (CoordenadaArea.X >= TamanhoAreaForm.Width -16 && CoordenadaArea.Y >= TamanhoAreaForm.Height)
+        //    //    {
+        //    //        msj.Result = (IntPtr)(IsMirrored ? Esquerda : Direita);
+        //    //        return;
+        //    //    }
+        //    //}
+        //    //base.WndProc(ref msj);
+        //}
+
+        

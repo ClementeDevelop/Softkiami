@@ -1,0 +1,61 @@
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dados\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dados\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dados\obj\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dados\obj\Debug\Dados.pdb
+D:\Nova pasta\Software\Kiamisoft\Dados\bin\Debug\Dados.dll
+D:\Nova pasta\Software\Kiamisoft\Dados\bin\Debug\Dados.pdb
+D:\Nova pasta\Software\Kiamisoft\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Software\Kiamisoft\Dados\obj\Debug\Dados.dll
+D:\Nova pasta\Software\Kiamisoft\Dados\obj\Debug\Dados.pdb
+D:\Fernandes\Software\Kiamisoft\Dados\bin\Debug\Dados.dll
+D:\Fernandes\Software\Kiamisoft\Dados\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Kiamisoft\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Kiamisoft\Dados\obj\Debug\Dados.dll
+D:\Fernandes\Software\Kiamisoft\Dados\obj\Debug\Dados.pdb
+D:\Fernandes\Software\Felvis Softkiami\Dados\bin\Debug\Dados.dll
+D:\Fernandes\Software\Felvis Softkiami\Dados\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Felvis Softkiami\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Felvis Softkiami\Dados\obj\Debug\Dados.dll
+D:\Fernandes\Software\Felvis Softkiami\Dados\obj\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\bin\Debug\Dados.dll.CodeAnalysisLog.xml
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\bin\Debug\Dados.dll.lastcodeanalysissucceeded
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\obj\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dados\obj\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\obj\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dados\obj\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\bin\Debug\System.Data.SqlServerCe.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\obj\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dados\obj\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\obj\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\obj\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Dados\bin\Debug\Dados.dll
+D:\Fernandes\Softkiami 1\Dados\bin\Debug\Dados.pdb
+D:\Fernandes\Softkiami 1\Dados\bin\Debug\Comum.dll
+D:\Fernandes\Softkiami 1\Dados\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+D:\Fernandes\Softkiami 1\Dados\obj\Debug\Dados.dll
+D:\Fernandes\Softkiami 1\Dados\obj\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dados\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\obj\Debug\Dados.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\obj\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dados\obj\Debug\Dados.pdb

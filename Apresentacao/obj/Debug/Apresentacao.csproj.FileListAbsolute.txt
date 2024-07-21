@@ -1,0 +1,522 @@
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.exe
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.exe
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Dominio.dll
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Dados.dll
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Dominio.pdb
+D:\Fernandes\Software\Kiamisoft\Apresentacao\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.exe
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.exe
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Dominio.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+D:\Fernandes\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+C:\PerfLogs\Projeto\Software\Kiamisoft\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.exe
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.exe
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Dominio.dll
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Dados.dll
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Dominio.pdb
+D:\Fernandes\Software\Softkiami\Apresentacao\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto1.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Iniciar.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFaturacao.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+D:\Fernandes\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.exe
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.dll
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.dll
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.pdb
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFaturacao.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto1.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Iniciar.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+D:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmListarProduto.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe.config
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.exe
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.pdb
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.pdb
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.dll
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.dll
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.pdb
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.pdb
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFaturacao.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmListarProduto.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto1.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Iniciar.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+E:\Fernandes\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmFaturacao.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmListarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmProduto1.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRegistarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Iniciar.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\bin\Debug\Guna.UI2.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionarioNormal.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarProduto.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\System.Data.SqlServerCe.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Dominio.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionarioNormal.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmFaturacao.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarProduto.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmProduto1.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin1.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastro.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDashboard.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsulta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe.config
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.exe
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.pdb
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.pdb
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Comum.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dados.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dominio.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dados.pdb
+D:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dominio.pdb
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.factura.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarCliente.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastro.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsulta.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarCliente.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFornecedor.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDashboard.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin1.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu3.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarProduto.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Relatorio.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+D:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe.config
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.exe
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.pdb
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.exe
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Apresentacao.pdb
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Comum.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dados.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dominio.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Comum.pdb
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dados.pdb
+H:\Fernandes\Softkiami 1\Apresentacao\bin\Debug\Dominio.pdb
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.factura.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarCliente.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastro.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsulta.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarCliente.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFornecedor.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDashboard.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmFatura.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin1.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu3.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarProduto.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmMenu1.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmProduto.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmServicos.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Relatorio.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+H:\Fernandes\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Produto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmEditarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmVenda.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmStock.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Guna.UI2.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.csproj.Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Consulta.FrmConsultarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Guna.UI2.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\System.Data.SqlServerCe.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.csproj.Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Consulta.FrmConsultarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmEditarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastro.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmConsulta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmConsultarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmDashboard.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmStock.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmVenda.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Produto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Relatorios.Relatorio_01.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Apresentacao\obj\Debug\Apresentacao.Factura.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Relatorios.Relatorio_01.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1 - Cópia\Apresentacao\obj\Debug\Apresentacao.Factura.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.exe.config
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.exe
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Apresentacao.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Guna.UI2.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Consulta.FrmConsultarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmEditarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastro.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsulta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarCliente.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFornecedor.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarFuncionario.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDashboard.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoes.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogin.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmRelatorio.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmStock.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Relatorios.Relatorio_01.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmVenda.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmVendas.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmLogo.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmMenu.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmDefinicoesConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Produto.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTesouraria.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmTiposConta.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Properties.Resources.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmConsultarUtilizador.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Factura.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Teste.resources
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\RdlCompile.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\RdlCompile.compiled

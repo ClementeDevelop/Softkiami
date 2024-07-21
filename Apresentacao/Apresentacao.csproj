@@ -1,0 +1,465 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{08B50D84-5194-46E4-B377-10F2196BF513}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Apresentacao</RootNamespace>
+    <AssemblyName>Apresentacao</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Logo2.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup />
+  <PropertyGroup />
+  <PropertyGroup />
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3, Version=1.5.3.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\Csharp\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.0.1, Culture=neutral, PublicKeyToken=ad275b4be6718d4b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\..\..\..\.Guna\_Getintopc.com_Guna_UI_Framework_Ultimate_v2.0.0.1\Guna_UI_Framework_Ultimate_v2.0.0.1\Guna.UI-Framework-Lib-master\Guna.UI2 WinForms\.net 4.0\Guna.UI2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.314.76\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BDSoftkiamiDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>BDSoftkiamiDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarProduto.Designer.cs">
+      <DependentUpon>FrmConsultarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmEditarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmEditarProduto.designer.cs">
+      <DependentUpon>FrmEditarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarProduto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarProduto.Designer.cs">
+      <DependentUpon>FrmCadastrarProduto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmAnimacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmAnimacao.Designer.cs">
+      <DependentUpon>FrmAnimacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarFornecedor.Designer.cs">
+      <DependentUpon>FrmCadastrarFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarFuncionario.Designer.cs">
+      <DependentUpon>FrmCadastrarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarCliente.Designer.cs">
+      <DependentUpon>FrmCadastrarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmCadastro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmCadastro.Designer.cs">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmConsulta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmConsulta.Designer.cs">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarCliente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarCliente.Designer.cs">
+      <DependentUpon>FrmConsultarCliente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarFornecedor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarFornecedor.Designer.cs">
+      <DependentUpon>FrmConsultarFornecedor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarFuncionario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarFuncionario.Designer.cs">
+      <DependentUpon>FrmConsultarFuncionario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmDashboard.Designer.cs">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracoes\FrmDefinicoes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracoes\FrmDefinicoes.Designer.cs">
+      <DependentUpon>FrmDefinicoes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmLogin.Designer.cs">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmRelatorio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmRelatorio.Designer.cs">
+      <DependentUpon>FrmRelatorio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmStock.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmStock.Designer.cs">
+      <DependentUpon>FrmStock.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_01.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Relatorio_01.Designer.cs">
+      <DependentUpon>Relatorio_01.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda\FrmVenda.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venda\FrmVenda.Designer.cs">
+      <DependentUpon>FrmVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Venda\FrmVendas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Venda\FrmVendas.Designer.cs">
+      <DependentUpon>FrmVendas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmLogo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmLogo.Designer.cs">
+      <DependentUpon>FrmLogo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmMenu.Designer.cs">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Configuracoes\FrmDefinicoesConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Configuracoes\FrmDefinicoesConta.Designer.cs">
+      <DependentUpon>FrmDefinicoesConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\Produto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\Produto.Designer.cs">
+      <DependentUpon>Produto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cadastro\FrmCadastrarUtilizador.designer.cs">
+      <DependentUpon>FrmCadastrarUtilizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmTesouraria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmTesouraria.Designer.cs">
+      <DependentUpon>FrmTesouraria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Layout\FrmTiposConta.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\FrmTiposConta.Designer.cs">
+      <DependentUpon>FrmTiposConta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Consulta\FrmConsultarUtilizador.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Consulta\FrmConsultarUtilizador.Designer.cs">
+      <DependentUpon>FrmConsultarUtilizador.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Relatorios\Factura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Relatorios\Factura.Designer.cs">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="Layout\Teste.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Layout\Teste.Designer.cs">
+      <DependentUpon>Teste.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Consulta\FrmConsultarProduto.resx">
+      <DependentUpon>FrmConsultarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\FrmEditarProduto.resx">
+      <DependentUpon>FrmEditarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmCadastrarProduto.resx">
+      <DependentUpon>FrmCadastrarProduto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmAnimacao.resx">
+      <DependentUpon>FrmAnimacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmCadastrarFornecedor.resx">
+      <DependentUpon>FrmCadastrarFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmCadastrarFuncionario.resx">
+      <DependentUpon>FrmCadastrarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmCadastrarCliente.resx">
+      <DependentUpon>FrmCadastrarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmCadastro.resx">
+      <DependentUpon>FrmCadastro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmConsulta.resx">
+      <DependentUpon>FrmConsulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\FrmConsultarCliente.resx">
+      <DependentUpon>FrmConsultarCliente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\FrmConsultarFornecedor.resx">
+      <DependentUpon>FrmConsultarFornecedor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Consulta\FrmConsultarFuncionario.resx">
+      <DependentUpon>FrmConsultarFuncionario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmDashboard.resx">
+      <DependentUpon>FrmDashboard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracoes\FrmDefinicoes.resx">
+      <DependentUpon>FrmDefinicoes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmLogin.resx">
+      <DependentUpon>FrmLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmRelatorio.resx">
+      <DependentUpon>FrmRelatorio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmStock.resx">
+      <DependentUpon>FrmStock.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Relatorio_01.resx">
+      <DependentUpon>Relatorio_01.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Report_02.rdlc" />
+    <EmbeddedResource Include="Venda\FrmVenda.resx">
+      <DependentUpon>FrmVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Venda\FrmVendas.resx">
+      <DependentUpon>FrmVendas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmLogo.resx">
+      <DependentUpon>FrmLogo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmMenu.resx">
+      <DependentUpon>FrmMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Configuracoes\FrmDefinicoesConta.resx">
+      <DependentUpon>FrmDefinicoesConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\Produto.resx">
+      <DependentUpon>Produto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Cadastro\FrmCadastrarUtilizador.resx">
+      <DependentUpon>FrmCadastrarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmTesouraria.resx">
+      <DependentUpon>FrmTesouraria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Layout\FrmTiposConta.resx">
+      <DependentUpon>FrmTiposConta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Consulta\FrmConsultarUtilizador.resx">
+      <DependentUpon>FrmConsultarUtilizador.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Factura.resx">
+      <DependentUpon>Factura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Relatorios\Factura.rdlc" />
+    <EmbeddedResource Include="Layout\Teste.resx">
+      <DependentUpon>Teste.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="BDSoftkiamiDataSet.xsc">
+      <DependentUpon>BDSoftkiamiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="BDSoftkiamiDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>BDSoftkiamiDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="BDSoftkiamiDataSet.xss">
+      <DependentUpon>BDSoftkiamiDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Comum\Comum.csproj">
+      <Project>{69656e33-ce16-43e7-b9f7-56067b39afc0}</Project>
+      <Name>Comum</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dados\Dados.csproj">
+      <Project>{c2470270-d3c8-4dc9-a616-c846dfdb0c9d}</Project>
+      <Name>Dados</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio\Dominio.csproj">
+      <Project>{ea5c7624-b1d1-438b-845e-a9df72df73f4}</Project>
+      <Name>Dominio</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Imagens\Icone-Kiamisoft.ico" />
+    <Content Include="Imagens\software%281%29.ico" />
+    <Content Include="Logo%281%29.ico" />
+    <Content Include="Logo2.ico" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.SQL.Server.Compact.4.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server Compact 4.0 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
