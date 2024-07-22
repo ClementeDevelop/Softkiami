@@ -1,0 +1,22 @@
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\obj\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\obj\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\bin\Debug\Comum.dll.CodeAnalysisLog.xml
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Comum\bin\Debug\Comum.dll.lastcodeanalysissucceeded
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Comum\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Comum\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Comum\obj\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Comum\obj\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Comum\bin\Debug\Comum.dll
+D:\Fernandes\Softkiami 1\Comum\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+D:\Fernandes\Softkiami 1\Comum\obj\Debug\Comum.dll
+D:\Fernandes\Softkiami 1\Comum\obj\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Comum\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Comum\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Comum\obj\Debug\Comum.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Comum\obj\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Comum\obj\Debug\Comum.pdb

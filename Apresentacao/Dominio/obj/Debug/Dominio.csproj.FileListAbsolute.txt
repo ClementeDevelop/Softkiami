@@ -1,0 +1,86 @@
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\bin\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\bin\Debug\Dominio.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\obj\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Kiamisoft\Dominio\obj\Debug\Dominio.pdb
+D:\Nova pasta\Software\Kiamisoft\Dominio\bin\Debug\Dominio.dll
+D:\Nova pasta\Software\Kiamisoft\Dominio\bin\Debug\Dominio.pdb
+D:\Nova pasta\Software\Kiamisoft\Dominio\bin\Debug\Dados.dll
+D:\Nova pasta\Software\Kiamisoft\Dominio\bin\Debug\Dados.pdb
+D:\Nova pasta\Software\Kiamisoft\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Nova pasta\Software\Kiamisoft\Dominio\obj\Debug\Dominio.dll
+D:\Nova pasta\Software\Kiamisoft\Dominio\obj\Debug\Dominio.pdb
+D:\Fernandes\Software\Kiamisoft\Dominio\bin\Debug\Dominio.dll
+D:\Fernandes\Software\Kiamisoft\Dominio\bin\Debug\Dominio.pdb
+D:\Fernandes\Software\Kiamisoft\Dominio\bin\Debug\Dados.dll
+D:\Fernandes\Software\Kiamisoft\Dominio\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Kiamisoft\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Kiamisoft\Dominio\obj\Debug\Dominio.dll
+D:\Fernandes\Software\Kiamisoft\Dominio\obj\Debug\Dominio.pdb
+D:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.dll
+D:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.pdb
+D:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.dll
+D:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.pdb
+D:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.dll
+D:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.pdb
+E:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.dll
+E:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.pdb
+E:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.dll
+E:\Fernandes\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.pdb
+E:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+E:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.dll
+E:\Fernandes\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.dll.CodeAnalysisLog.xml
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dominio.dll.lastcodeanalysissucceeded
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\Software\Felvis Softkiami\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\bin\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\bin\Debug\Dominio.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\bin\Debug\Dados.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\bin\Debug\System.Data.SqlServerCe.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\bin\Debug\Dados.pdb
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.dll
+C:\PerfLogs\Projeto\Software\Fernandes\Felvis Softkiami 1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\obj\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami 1\Dominio\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Dominio.dll
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Dominio.pdb
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Comum.dll
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Dados.dll
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Comum.pdb
+D:\Fernandes\Softkiami 1\Dominio\bin\Debug\Dados.pdb
+D:\Fernandes\Softkiami 1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+D:\Fernandes\Softkiami 1\Dominio\obj\Debug\Dominio.dll
+D:\Fernandes\Softkiami 1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Dominio.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Comum.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Dados.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Comum.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\bin\Debug\Dados.pdb
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\obj\Debug\Dominio.dll
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Dominio\obj\Debug\Dominio.pdb
