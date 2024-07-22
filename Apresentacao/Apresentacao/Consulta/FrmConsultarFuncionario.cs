@@ -23,6 +23,8 @@ namespace Apresentacao
         {
             Consultar();
         }
+
+        //O método Consultar permite pesquisar os funcionários na barra de pesquisa.
         public void Consultar()
         {
             try
@@ -60,17 +62,17 @@ namespace Apresentacao
                 {
                     int CodFunc = Convert.ToInt32(ListarFuncionarios.SelectedRows[0].Cells["CodFunc"].Value);
 
-                    FrmCadastrarFuncionario ConsFuncionario = new FrmCadastrarFuncionario(CodFunc);
-                    AddOwnedForm(ConsFuncionario);
-                    ConsFuncionario.TopLevel = false;
-                    ConsFuncionario.Dock = DockStyle.Fill;
-                    this.Controls.Add(ConsFuncionario);
-                    this.Tag = ConsFuncionario;
-                    ConsFuncionario.BringToFront();
+                    FrmCadastrarFuncionario funcionario = new FrmCadastrarFuncionario(CodFunc);
+                    AddOwnedForm(funcionario);
+                    funcionario.TopLevel = false;
+                    funcionario.Dock = DockStyle.Fill;
+                    this.Controls.Add(funcionario);
+                    this.Tag = funcionario;
+                    funcionario.BringToFront();
 
-                    if (ConsFuncionario != null)
+                    if (funcionario != null)
                     {
-                        ConsFuncionario.Show();
+                        funcionario.Show();
                         Consultar();
                     }
 
@@ -78,7 +80,7 @@ namespace Apresentacao
             }
             catch (Exception ex)
             {
-                MessageBox.Show("Falha ao editar o funcionario. " + ex);
+                MessageBox.Show("Falha ao editar o funcionário. " + ex);
             }
         }
 
