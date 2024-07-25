@@ -14,7 +14,7 @@ namespace Dados
         private SqlDataReader sdr;
 
         #region Método inserir produto.
-        public bool Inserir(string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
+        public bool InserirProduto(string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
         {
             using (var conexao = GetConnection())
             {
@@ -116,9 +116,11 @@ namespace Dados
                 comando.CommandText = "Buscar_CodProdut";
                 comando.CommandType = CommandType.StoredProcedure;
                 comando.Parameters.AddWithValue("@CodProdut" ,CodProdut);
-                sdr = comando.ExecuteReader();
-                dt.Load(sdr);
-                sdr.Close();
+                SqlDataAdapter sda = new SqlDataAdapter(comando);
+                sda.Fill(dt);
+                //sdr = comando.ExecuteReader();
+                //dt.Load(sdr);
+                //sdr.Close();
             }
 
             return dt;
@@ -126,7 +128,7 @@ namespace Dados
         #endregion
 
         #region Método editar produto.
-        public bool Editar(int CodProdut, string Designacao, float IVA,
+        public bool EditarProduto(int CodProdut, string Designacao, float IVA,
         float PUnitario,
         float Desconto, int CodCateg)
         {
@@ -159,7 +161,7 @@ namespace Dados
         #endregion
 
         #region Método Eliminar
-        public bool Eliminar(int CodProdut)
+        public bool EliminarProduto(int CodProdut)
         {
             using (var conexao = GetConnection())
             {

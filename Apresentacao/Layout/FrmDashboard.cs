@@ -56,7 +56,7 @@ namespace Apresentacao
         }
         private void Contar_Produto()
         {
-            DataTable dt = pModel.CountProdutoModel();
+            DataTable dt = pModel.Count_ProdutoModel();
             lblContar_Produto.Text = dt.Rows[0][0].ToString();
         }
         private void Contar_Cliente()

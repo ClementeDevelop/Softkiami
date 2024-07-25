@@ -24,19 +24,9 @@ namespace Apresentacao
         {
             InitializeComponent();
         }
-        public FrmCadastrarProduto(int CodProdut)
-        {
-            InitializeComponent();
-            this.CodProdut = CodProdut;
-            Busc_CodProduto(CodProdut);
-            lblCadastrar.Text = "Editar produto";
-            btnCadastrar.ButtonText = "Editar";
-        }
         private void FrmProduto_Load(object sender, EventArgs e)
         {
-            //Lista as categorias de produto quando a aplicação é executada.
             ListarCategoria();
-            //Mostra_CasasDecimais();
         }
         private void btnCadastrar_Click(object sender, EventArgs e)
         {
@@ -44,16 +34,9 @@ namespace Apresentacao
             {
                 if (CodProdut == 0)
                 {
-                    prod.InserirModel(txtDesignacao.Text, float.Parse(txtIVA.Text), float.Parse(txtPUnitario.Text), float.Parse(txtDesconto.Text), Convert.ToInt32(cmbCategoria.SelectedValue));
+                    prod.Inserir_ProdutoModel(txtDesignacao.Text, float.Parse(txtIVA.Text), float.Parse(txtPUnitario.Text), float.Parse(txtDesconto.Text), Convert.ToInt32(cmbCategoria.SelectedValue));
                     MessageBox.Show("Produto cadastrado com sucesso. ", "Produto", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     //this.Close();
-                }
-                else
-                {
-                    prod.EditarModel(CodProdut, txtDesignacao.Text, float.Parse(txtIVA.Text), float.Parse(txtPUnitario.Text), float.Parse(txtDesconto.Text), Convert.ToInt32(cmbCategoria.SelectedValue));
-                    MessageBox.Show("Produto editado com sucesso. ", "Produto", MessageBoxButtons.OK, MessageBoxIcon.Information);
-                    this.Close();
-
                 }
                 Limpar();
             }
@@ -64,7 +47,7 @@ namespace Apresentacao
         }
 
         /*Limpa todos os campos do formulário de cadastro,
-        depois de serem preenchidos.*/
+        de produto depois de serem preenchidos.*/
         private void Limpar()
         {
             txtDesignacao.Text = "";
@@ -80,35 +63,6 @@ namespace Apresentacao
             cmbCategoria.DataSource = c.ConsultarCategoriaModel();
             cmbCategoria.DisplayMember = "DesigCateg";
             cmbCategoria.ValueMember = "CodCateg";
-        }
-        private void Mostra_CasasDecimais()
-        {
-            txtIVA.Text = " ,00";
-            txtPUnitario.Text = " ,00";
-            txtDesconto.Text = " ,00";
-
-        }
-
-        //Busca o código do produto para poder edita-lo.
-        private void Busc_CodProduto(int CodProdut)
-        {
-            DataTable dt = prod.Buscar_CodProdutModel(CodProdut);
-
-            try
-            {
-                foreach (DataRow item in dt.Rows)
-                {
-                    txtDesignacao.Text = item["Designacao"].ToString();
-                    txtIVA.Text = item["IVA"].ToString();
-                    txtPUnitario.Text = item["PUnitario"].ToString();
-                    txtDesconto.Text = item["Desconto"].ToString();
-                    cmbCategoria.SelectedValue = item["DesigCateg"].ToString();
-                }
-            }
-            catch (Exception ex)
-            {
-                MessageBox.Show("Falha ao buscar o código do produto. " + ex);
-            }
         }
         private void btnCancelar_Click(object sender, EventArgs e)
         {
@@ -128,7 +82,7 @@ namespace Apresentacao
             if (!char.IsControl(e.KeyChar) && !char.IsDigit(e.KeyChar))
             {
                 e.Handled = true;
-            } 
+            }
         }
 
         private void txtDesconto_KeyPress(object sender, KeyPressEventArgs e)

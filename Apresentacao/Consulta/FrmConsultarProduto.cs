@@ -13,6 +13,7 @@ namespace Apresentacao.Consulta
 {
     public partial class FrmConsultarProduto : Form
     {
+        //Instância da classe ProdutoModel.
         ProdutoModel prod = new ProdutoModel();
         public FrmConsultarProduto()
         {
@@ -36,26 +37,20 @@ namespace Apresentacao.Consulta
         }
         private void btnEditar_Click(object sender, EventArgs e)
         {
-            //Utilizamos o try, catch para o tratamento de erros.
+             //Utilizamos o try, catch para o tratamento de erros.
             try
             {
                 if (ListarProdutos.SelectedRows != null)
                 {
-                    int CodProdut = Convert.ToInt32(ListarProdutos.SelectedRows[0].Cells["codigo"].Value);
-
-                    FrmCadastrarProduto ediProduto = new FrmCadastrarProduto(CodProdut);
-                    AddOwnedForm(ediProduto);
-                    ediProduto.TopLevel = false;
-                    ediProduto.Dock = DockStyle.Fill;
-                    this.Controls.Add(ediProduto);
-                    this.Tag = ediProduto;
-                    ediProduto.BringToFront();
-
-                    if (ediProduto != null)
-                    {
-                        ediProduto.Show();
-                        ListarProduto();
-                    }
+                    EditarProduto editar = new EditarProduto();
+                    editar.ListarCategoria();
+                    editar.CodProdut = Convert.ToInt32(ListarProdutos.CurrentRow.Cells["codigo"].Value);
+                    editar.txtDesignacao.Text = ListarProdutos.CurrentRow.Cells["Designacao"].Value.ToString();
+                    editar.txtIVA.Text = ListarProdutos.CurrentRow.Cells["IVA"].Value.ToString();
+                    editar.txtPUnitario.Text = ListarProdutos.CurrentRow.Cells["PUnitario"].Value.ToString();
+                    editar.txtDesconto.Text = ListarProdutos.CurrentRow.Cells["Desconto"].Value.ToString();
+                    editar.cmbCategoria.Text = ListarProdutos.CurrentRow.Cells["DesigCateg"].Value.ToString();
+                    editar.ShowDialog();
                 }
             }
             catch (Exception ex)
@@ -63,7 +58,6 @@ namespace Apresentacao.Consulta
                 MessageBox.Show("Falha ao editar o produto. " + ex);
             }
         }
-
         private void btnEliminar_Click(object sender, EventArgs e)
         {
             //Utilizamos o try, catch para o tratamento de erros.
@@ -77,7 +71,7 @@ namespace Apresentacao.Consulta
                     {
                         int CodProdut = Convert.ToInt32(ListarProdutos.SelectedRows[0].Cells["codigo"].Value);
 
-                        if (prod.EliminarModel(CodProdut))
+                        if (prod.Eliminar_ProdutoModel(CodProdut))
                         {
                             MessageBox.Show("Produto eliminado com sucesso. ", "Produto", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             ListarProduto();
@@ -97,7 +91,7 @@ namespace Apresentacao.Consulta
             //Utilizamos o try, catch para o tratamento de erros.
             try
             {
-                ListarProdutos.DataSource = prod.ListarProdutoModel();
+                ListarProdutos.DataSource = prod.Listar_ProdutoModel();
             }
             catch (Exception ex)
             {
@@ -109,7 +103,7 @@ namespace Apresentacao.Consulta
             //Utilizamos o try, catch para o tratamento de erros.
             try
             {
-                ListarProdutos.DataSource = prod.ProcurarProdutoModel(txtPesquisa.Text);
+                ListarProdutos.DataSource = prod.Procurar_ProdutoModel(txtPesquisa.Text);
             }
             catch (Exception ex)
             {

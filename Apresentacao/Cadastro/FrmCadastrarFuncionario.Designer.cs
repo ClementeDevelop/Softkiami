@@ -37,13 +37,13 @@
             this.dateTimeDataNasc = new System.Windows.Forms.DateTimePicker();
             this.dateTimeDataRegist = new System.Windows.Forms.DateTimePicker();
             this.lblEstadoCiv = new System.Windows.Forms.Label();
-            this.comboEstadoCiv = new System.Windows.Forms.ComboBox();
+            this.cmbEstadoCiv = new System.Windows.Forms.ComboBox();
             this.lblDataRegist = new System.Windows.Forms.Label();
             this.lblBairro = new System.Windows.Forms.Label();
             this.lblMunicipio = new System.Windows.Forms.Label();
             this.lblProvincia = new System.Windows.Forms.Label();
             this.txtTel = new System.Windows.Forms.TextBox();
-            this.comboGenero = new System.Windows.Forms.ComboBox();
+            this.cmbGenero = new System.Windows.Forms.ComboBox();
             this.txtNIF = new System.Windows.Forms.TextBox();
             this.txtEmail = new System.Windows.Forms.TextBox();
             this.txtNome = new System.Windows.Forms.TextBox();
@@ -53,11 +53,11 @@
             this.lblDataNasc = new System.Windows.Forms.Label();
             this.lblNome = new System.Windows.Forms.Label();
             this.lblFuncao = new System.Windows.Forms.Label();
-            this.txtFuncao = new System.Windows.Forms.TextBox();
             this.txtRua = new System.Windows.Forms.TextBox();
             this.txtBairro = new System.Windows.Forms.TextBox();
             this.txtMuni = new System.Windows.Forms.TextBox();
             this.txtProvin = new System.Windows.Forms.TextBox();
+            this.cmbFuncao = new System.Windows.Forms.ComboBox();
             this.SuspendLayout();
             // 
             // btnCancelar
@@ -140,7 +140,7 @@
             this.lblNIF.AutoSize = true;
             this.lblNIF.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNIF.ForeColor = System.Drawing.Color.Black;
-            this.lblNIF.Location = new System.Drawing.Point(70, 226);
+            this.lblNIF.Location = new System.Drawing.Point(70, 261);
             this.lblNIF.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNIF.Name = "lblNIF";
             this.lblNIF.Size = new System.Drawing.Size(37, 23);
@@ -179,20 +179,20 @@
             this.lblEstadoCiv.TabIndex = 225;
             this.lblEstadoCiv.Text = "Estado civil";
             // 
-            // comboEstadoCiv
+            // cmbEstadoCiv
             // 
-            this.comboEstadoCiv.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboEstadoCiv.FormattingEnabled = true;
-            this.comboEstadoCiv.Items.AddRange(new object[] {
+            this.cmbEstadoCiv.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbEstadoCiv.FormattingEnabled = true;
+            this.cmbEstadoCiv.Items.AddRange(new object[] {
             "Solteiro (a)",
             "Casado (a)",
             "Divorciado (a)",
             "Viúvo (a)"});
-            this.comboEstadoCiv.Location = new System.Drawing.Point(196, 312);
-            this.comboEstadoCiv.Margin = new System.Windows.Forms.Padding(4);
-            this.comboEstadoCiv.Name = "comboEstadoCiv";
-            this.comboEstadoCiv.Size = new System.Drawing.Size(139, 27);
-            this.comboEstadoCiv.TabIndex = 3;
+            this.cmbEstadoCiv.Location = new System.Drawing.Point(196, 312);
+            this.cmbEstadoCiv.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbEstadoCiv.Name = "cmbEstadoCiv";
+            this.cmbEstadoCiv.Size = new System.Drawing.Size(139, 27);
+            this.cmbEstadoCiv.TabIndex = 3;
             // 
             // lblDataRegist
             // 
@@ -254,19 +254,19 @@
             this.txtTel.TabIndex = 4;
             this.txtTel.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.txtTel_KeyPress);
             // 
-            // comboGenero
+            // cmbGenero
             // 
-            this.comboGenero.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
-            this.comboGenero.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.comboGenero.FormattingEnabled = true;
-            this.comboGenero.Items.AddRange(new object[] {
+            this.cmbGenero.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.Suggest;
+            this.cmbGenero.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbGenero.FormattingEnabled = true;
+            this.cmbGenero.Items.AddRange(new object[] {
             "Mascúlino",
             "Feminino"});
-            this.comboGenero.Location = new System.Drawing.Point(726, 326);
-            this.comboGenero.Margin = new System.Windows.Forms.Padding(4);
-            this.comboGenero.Name = "comboGenero";
-            this.comboGenero.Size = new System.Drawing.Size(358, 27);
-            this.comboGenero.TabIndex = 10;
+            this.cmbGenero.Location = new System.Drawing.Point(726, 326);
+            this.cmbGenero.Margin = new System.Windows.Forms.Padding(4);
+            this.cmbGenero.Name = "cmbGenero";
+            this.cmbGenero.Size = new System.Drawing.Size(358, 27);
+            this.cmbGenero.TabIndex = 10;
             // 
             // txtNIF
             // 
@@ -355,7 +355,7 @@
             this.lblNome.AutoSize = true;
             this.lblNome.Font = new System.Drawing.Font("Calibri", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblNome.ForeColor = System.Drawing.Color.Black;
-            this.lblNome.Location = new System.Drawing.Point(70, 262);
+            this.lblNome.Location = new System.Drawing.Point(70, 226);
             this.lblNome.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblNome.Name = "lblNome";
             this.lblNome.Size = new System.Drawing.Size(56, 23);
@@ -373,17 +373,6 @@
             this.lblFuncao.Size = new System.Drawing.Size(66, 23);
             this.lblFuncao.TabIndex = 216;
             this.lblFuncao.Text = "Função";
-            // 
-            // txtFuncao
-            // 
-            this.txtFuncao.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtFuncao.Font = new System.Drawing.Font("Century Gothic", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txtFuncao.Location = new System.Drawing.Point(197, 353);
-            this.txtFuncao.Margin = new System.Windows.Forms.Padding(4);
-            this.txtFuncao.Multiline = true;
-            this.txtFuncao.Name = "txtFuncao";
-            this.txtFuncao.Size = new System.Drawing.Size(330, 27);
-            this.txtFuncao.TabIndex = 5;
             // 
             // txtRua
             // 
@@ -429,12 +418,25 @@
             this.txtProvin.Size = new System.Drawing.Size(886, 27);
             this.txtProvin.TabIndex = 13;
             // 
+            // cmbFuncao
+            // 
+            this.cmbFuncao.Font = new System.Drawing.Font("Century Gothic", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cmbFuncao.FormattingEnabled = true;
+            this.cmbFuncao.Items.AddRange(new object[] {
+            "Administrador/a",
+            "Operador/a"});
+            this.cmbFuncao.Location = new System.Drawing.Point(198, 352);
+            this.cmbFuncao.Name = "cmbFuncao";
+            this.cmbFuncao.Size = new System.Drawing.Size(329, 28);
+            this.cmbFuncao.TabIndex = 230;
+            // 
             // FrmCadastrarFuncionario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.WhiteSmoke;
             this.ClientSize = new System.Drawing.Size(1184, 695);
+            this.Controls.Add(this.cmbFuncao);
             this.Controls.Add(this.txtProvin);
             this.Controls.Add(this.txtMuni);
             this.Controls.Add(this.txtBairro);
@@ -443,18 +445,17 @@
             this.Controls.Add(this.dateTimeDataNasc);
             this.Controls.Add(this.dateTimeDataRegist);
             this.Controls.Add(this.lblEstadoCiv);
-            this.Controls.Add(this.comboEstadoCiv);
+            this.Controls.Add(this.cmbEstadoCiv);
             this.Controls.Add(this.lblDataRegist);
             this.Controls.Add(this.lblBairro);
             this.Controls.Add(this.lblMunicipio);
             this.Controls.Add(this.lblFuncao);
             this.Controls.Add(this.lblProvincia);
             this.Controls.Add(this.txtTel);
-            this.Controls.Add(this.comboGenero);
+            this.Controls.Add(this.cmbGenero);
             this.Controls.Add(this.txtNIF);
             this.Controls.Add(this.txtEmail);
             this.Controls.Add(this.txtRua);
-            this.Controls.Add(this.txtFuncao);
             this.Controls.Add(this.txtNome);
             this.Controls.Add(this.lblGenero);
             this.Controls.Add(this.lblEmail);
@@ -483,13 +484,13 @@
         private System.Windows.Forms.DateTimePicker dateTimeDataNasc;
         private System.Windows.Forms.DateTimePicker dateTimeDataRegist;
         private System.Windows.Forms.Label lblEstadoCiv;
-        private System.Windows.Forms.ComboBox comboEstadoCiv;
+        private System.Windows.Forms.ComboBox cmbEstadoCiv;
         private System.Windows.Forms.Label lblDataRegist;
         private System.Windows.Forms.Label lblBairro;
         private System.Windows.Forms.Label lblMunicipio;
         private System.Windows.Forms.Label lblProvincia;
         private System.Windows.Forms.TextBox txtTel;
-        private System.Windows.Forms.ComboBox comboGenero;
+        private System.Windows.Forms.ComboBox cmbGenero;
         private System.Windows.Forms.TextBox txtNIF;
         private System.Windows.Forms.TextBox txtEmail;
         private System.Windows.Forms.TextBox txtNome;
@@ -499,10 +500,10 @@
         private System.Windows.Forms.Label lblDataNasc;
         private System.Windows.Forms.Label lblNome;
         private System.Windows.Forms.Label lblFuncao;
-        private System.Windows.Forms.TextBox txtFuncao;
         private System.Windows.Forms.TextBox txtRua;
         private System.Windows.Forms.TextBox txtBairro;
         private System.Windows.Forms.TextBox txtMuni;
         private System.Windows.Forms.TextBox txtProvin;
+        private System.Windows.Forms.ComboBox cmbFuncao;
     }
 }

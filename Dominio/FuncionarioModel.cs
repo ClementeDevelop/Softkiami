@@ -21,7 +21,7 @@ namespace Dominio
         }
         public DataTable BuscarCodFuncModel(int CodFunc)
         {
-            return funcionario.BuscarCodFunc(CodFunc);
+            return funcionario.Buscar_CodFunc(CodFunc);
         }
         public bool EditarFuncionarioModel(int CodFunc, string Nome, DateTime DataNasc, string NIF, string Funcao, string Email, string Genero, string EstadoCivil, string NumTel, string Provincia, string Municipio, string Bairro, string Rua, DateTime DataRegist)
         {

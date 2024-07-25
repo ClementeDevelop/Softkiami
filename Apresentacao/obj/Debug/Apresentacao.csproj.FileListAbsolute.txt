@@ -487,7 +487,6 @@ C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csprojResolveAssemblyReference.cache
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.Consulta.FrmConsultarProduto.resources
-C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmEditarProduto.resources
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarProduto.resources
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmAnimacao.resources
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.FrmCadastrarFornecedor.resources
@@ -520,3 +519,4 @@ C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.csproj.GenerateResource.Cache
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\RdlCompile.cache
 C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\RdlCompile.compiled
+C:\Users\Fernandes\Documents\Projetos\ITLS 2023\Software\Softkiami\Apresentacao\obj\Debug\Apresentacao.EditarProduto.resources

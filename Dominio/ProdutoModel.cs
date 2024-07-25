@@ -14,15 +14,15 @@ namespace Dominio
         //Instância da classe Produto.
         Produto prod = new Produto();
 
-        public bool InserirModel(string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
+        public bool Inserir_ProdutoModel(string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
         {
-            return prod.Inserir(Designacao, IVA, PUnitario, Desconto, CodCateg);
+            return prod.InserirProduto(Designacao, IVA, PUnitario, Desconto, CodCateg);
         }
-        public DataTable ListarProdutoModel()
+        public DataTable Listar_ProdutoModel()
         {
             return prod.ListarProdutos();
         }
-        public DataTable ProcurarProdutoModel(string Designacao)
+        public DataTable Procurar_ProdutoModel(string Designacao)
         {
             return prod.ProcurarProdutos(Designacao);
         }
@@ -30,15 +30,15 @@ namespace Dominio
         {
             return prod.Buscar_CodProdut(CodProdut);
         }
-        public bool EditarModel(int CodProdut, string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
+        public bool Editar_ProdutoModel(int CodProdut, string Designacao, float IVA, float PUnitario, float Desconto, int CodCateg)
         {
-            return prod.Editar(CodProdut, Designacao, IVA, PUnitario, Desconto, CodCateg);
+            return prod.EditarProduto(CodProdut, Designacao, IVA, PUnitario, Desconto, CodCateg);
         }
-        public bool EliminarModel(int CodProdut)
+        public bool Eliminar_ProdutoModel(int CodProdut)
         {
-            return prod.Eliminar(CodProdut);
+            return prod.EliminarProduto(CodProdut);
         }
-        public DataTable CountProdutoModel()
+        public DataTable Count_ProdutoModel()
         {
             return prod.CountProduto();
         }

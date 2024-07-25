@@ -100,11 +100,11 @@
             this.bunifuCustomLabel2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(5)))), ((int)(((byte)(51)))), ((int)(((byte)(80)))));
             this.bunifuCustomLabel2.Font = new System.Drawing.Font("Arial Rounded MT Bold", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.bunifuCustomLabel2.ForeColor = System.Drawing.Color.White;
-            this.bunifuCustomLabel2.Location = new System.Drawing.Point(490, 392);
+            this.bunifuCustomLabel2.Location = new System.Drawing.Point(480, 392);
             this.bunifuCustomLabel2.Name = "bunifuCustomLabel2";
-            this.bunifuCustomLabel2.Size = new System.Drawing.Size(288, 22);
+            this.bunifuCustomLabel2.Size = new System.Drawing.Size(311, 22);
             this.bunifuCustomLabel2.TabIndex = 40;
-            this.bunifuCustomLabel2.Text = "Develop by Felvis Corporation.";
+            this.bunifuCustomLabel2.Text = "Developed by Felvis Corporation.";
             // 
             // lblSoftkiami
             // 

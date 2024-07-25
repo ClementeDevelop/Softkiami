@@ -9,11 +9,12 @@ using Comum;
 
 namespace Dados
 {
-    public class Funcionario:Conexao
+    public class Funcionario : Conexao
     {
         public object CodCliente { get; private set; }
+
         #region Método inserir funcionário
-        public bool Inserir(/*int CodUtilizador*/ string Nome, DateTime DataNasc, string NIF, string Funcao, string Email, string Genero, string EstadoCivil, string NumTel, string Provincia, string Municipio, string Bairro, string Rua, DateTime DataRegist)
+        public bool Inserir(string Nome, DateTime DataNasc, string NIF, string Funcao, string Email, string Genero, string EstadoCivil, string NumTel, string Provincia, string Municipio, string Bairro, string Rua, DateTime DataRegist)
         {
             using (var conexao = GetConnection())
             {
@@ -63,7 +64,7 @@ namespace Dados
                     comando.Connection = conexao;
                     comando.CommandText = "ConsultarFuncionario";
                     comando.CommandType = CommandType.StoredProcedure;
-                    comando.Parameters.AddWithValue("@Nome", "%" + Nome + "%");                
+                    comando.Parameters.AddWithValue("@Nome", "%" + Nome + "%");
                     comando.Parameters.AddWithValue("@Email", "%" + Email + "%");
                     comando.Parameters.AddWithValue("@NIF", "%" + NIF + "%");
                     comando.Parameters.AddWithValue("@NumTel", "%" + NumTel + "%");
@@ -80,9 +81,10 @@ namespace Dados
         }
         #endregion
 
-        #region Método Buscar
-        public DataTable BuscarCodFunc(int CodFunc)
+        #region Método buscar código do funcionário.
+        public DataTable Buscar_CodFunc(int CodFunc)
         {
+            //Instância da classe DataTable.
             DataTable dt = new DataTable();
 
             try
@@ -94,11 +96,11 @@ namespace Dados
 
                     SqlCommand comando = new SqlCommand();
                     comando.Connection = conexao;
-                    comando.CommandText = "BuscarCodFunc";
+                    comando.CommandText = "Buscar_CodFunc";
                     comando.CommandType = CommandType.StoredProcedure;
                     comando.Parameters.AddWithValue("@CodFunc", CodFunc);
-                    SqlDataAdapter adapt = new SqlDataAdapter(comando);
-                    adapt.Fill(dt);
+                    SqlDataAdapter sda = new SqlDataAdapter(comando);
+                    sda.Fill(dt);
                 }
             }
             catch
@@ -129,7 +131,7 @@ namespace Dados
                 comando.Parameters.AddWithValue("@DataNasc", DataNasc);
                 comando.Parameters.AddWithValue("@NIF", NIF);
                 comando.Parameters.AddWithValue("@Funcao", Funcao);
-                comando.Parameters.AddWithValue("@Email", Email);              
+                comando.Parameters.AddWithValue("@Email", Email);
                 comando.Parameters.AddWithValue("@Genero", Genero);
                 comando.Parameters.AddWithValue("@EstadoCivil", EstadoCivil);
                 comando.Parameters.AddWithValue("@NumTel", NumTel);

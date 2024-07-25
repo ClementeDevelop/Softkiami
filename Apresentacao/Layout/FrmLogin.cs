@@ -86,7 +86,8 @@ namespace Apresentacao
                     {
                       
                             FrmMenu menu = new FrmMenu();
-                            MessageBox.Show("Bem-vindo (a)" + "  " + CacheUtilizadorLogin.Nome, "Login");
+                            MessageBox.Show("Bem-vindo (a)" + "  " + CacheUtilizadorLogin.Nome, 
+                            "Login", MessageBoxButtons.OK, MessageBoxIcon.Information);
                             menu.Show();
                             menu.FormClosed += Logout;
                             this.Hide();                      
@@ -95,18 +96,18 @@ namespace Apresentacao
                     else
                     {
                         MessageBox.Show("Utilizador ou senha errados. \nPor favor tente novamente.",
-                        "Aviso!", MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                        "Falha!", MessageBoxButtons.OK, MessageBoxIcon.Error);
                         txtSenha.Clear();
                         txtUtilizador.Focus();
                     }
                 }
                 else
-                    MessageBox.Show("Por favor introduza a senha.", "Aviso!",
-                    MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                    MessageBox.Show("Por favor introduza a senha.", "Falha!",
+                    MessageBoxButtons.OK, MessageBoxIcon.Error);
             }
             else
-                MessageBox.Show("Por favor introduza o utilizador.", "Aviso!",
-                MessageBoxButtons.OK, MessageBoxIcon.Warning);
+                MessageBox.Show("Por favor introduza o utilizador.", "Falha!",
+                MessageBoxButtons.OK, MessageBoxIcon.Error);
         }
         private void Logout(object sender, FormClosedEventArgs e)
         {

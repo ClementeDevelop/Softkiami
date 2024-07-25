@@ -22,8 +22,9 @@ namespace Dados
                 //Abre a conexão com a BD.
                 conexao.Open();
 
+                //Instâcia da classe SqlCommand.
                 SqlCommand comando = new SqlCommand();
-                //SqlCeCommand comando = new SqlCeCommand();
+
                 comando.Connection = conexao;
                 comando.CommandText = "ConsultarCategoria";
                 comando.CommandType = CommandType.StoredProcedure;
